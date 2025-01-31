@@ -4,13 +4,13 @@ This repository contains a CSS file (`tailwind-utilities.css`) that provides a s
 
 ## Features
 
-- **Color Utilities**: Includes a wide range of color classes for fills, text, and backgrounds, following the Tailwind color palette.
-- **Spacing Utilities**: Provides padding and margin utilities for consistent spacing.
-- **Sizing Utilities**: Includes classes for setting minimum, maximum, and preferred widths and heights.
-- **Typography Utilities**: Offers font size and weight utilities for text styling.
-- **Border Utilities**: Includes border radius, width, and color utilities for customizing borders.
-- **Effects Utilities**: Provides shadow and opacity utilities for visual effects.
-- **Interactivity Utilities**: Includes cursor utilities for better user interaction.
+- **Spacing Utilities**
+- **Sizing Utilities**
+- **Typography Utilities**
+- **Backgrounds Utilities**
+- **Borders Utilities**
+- **Effects Utilities**
+- **Interactivity Utilities**
 
 ## Usage
 
