@@ -58,6 +58,7 @@ If you're using FXML for your layout, you can include the CSS file in your FXML 
 ```xml
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.control.Button?>
+<?import java.net.URL?>
 
 <StackPane xmlns:fx="http://javafx.com/fxml" fx:controller="your.controller.Class">
     <stylesheets>
