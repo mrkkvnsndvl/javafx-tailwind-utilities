@@ -1,3 +1,11 @@
+/* Core concepts Utilities */
+
+.button:hover {
+    -fx-opacity: 0.9;
+}
+
+/*---------------------------------------------*/
+
 /* Spacing Utilities */
 
 .p-0 {
