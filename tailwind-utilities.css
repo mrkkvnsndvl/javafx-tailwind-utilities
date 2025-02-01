@@ -108,8 +108,6 @@
     -fx-padding: 384px;
 }
 
-/*---------------------------------------------*/
-
 .pt-0 {
     -fx-padding: 0 0 0 0;
 }
@@ -209,8 +207,6 @@
 .pt-96 {
     -fx-padding: 384px 0 0 0;
 }
-
-/*---------------------------------------------*/
 
 .pr-0 {
     -fx-padding: 0 0 0 0;
@@ -312,8 +308,6 @@
     -fx-padding: 0 384px 0 0;
 }
 
-/*---------------------------------------------*/
-
 .pb-0 {
     -fx-padding: 0 0 0 0;
 }
@@ -414,8 +408,6 @@
     -fx-padding: 0 0 384px 0;
 }
 
-/*---------------------------------------------*/
-
 .pl-0 {
     -fx-padding: 0 0 0 0;
 }
@@ -514,6 +506,206 @@
 }
 .pl-96 {
     -fx-padding: 0 0 0 384px;
+}
+
+.px-0 {
+    -fx-padding: 0 0 0 0;
+}
+.px-0_5 {
+    -fx-padding: 0 2px 0 2px;
+}
+.px-1 {
+    -fx-padding: 0 4px 0 4px;
+}
+.px-1_5 {
+    -fx-padding: 0 6px 0 6px;
+}
+.px-2 {
+    -fx-padding: 0 8px 0 8px;
+}
+.px-2_5 {
+    -fx-padding: 0 10px 0 10px;
+}
+.px-3 {
+    -fx-padding: 0 12px 0 12px;
+}
+.px-3_5 {
+    -fx-padding: 0 14px 0 14px;
+}
+.px-4 {
+    -fx-padding: 0 16px 0 16px;
+}
+.px-5 {
+    -fx-padding: 0 20px 0 20px;
+}
+.px-6 {
+    -fx-padding: 0 24px 0 24px;
+}
+.px-7 {
+    -fx-padding: 0 28px 0 28px;
+}
+.px-8 {
+    -fx-padding: 0 32px 0 32px;
+}
+.px-9 {
+    -fx-padding: 0 36px 0 36px;
+}
+.px-10 {
+    -fx-padding: 0 40px 0 40px;
+}
+.px-12 {
+    -fx-padding: 0 48px 0 48px;
+}
+.px-14 {
+    -fx-padding: 0 56px 0 56px;
+}
+.px-16 {
+    -fx-padding: 0 64px 0 64px;
+}
+.px-20 {
+    -fx-padding: 0 80px 0 80px;
+}
+.px-24 {
+    -fx-padding: 0 96px 0 96px;
+}
+.px-28 {
+    -fx-padding: 0 112px 0 112px;
+}
+.px-32 {
+    -fx-padding: 0 128px 0 128px;
+}
+.px-36 {
+    -fx-padding: 0 144px 0 144px;
+}
+.px-40 {
+    -fx-padding: 0 160px 0 160px;
+}
+.px-44 {
+    -fx-padding: 0 176px 0 176px;
+}
+.px-48 {
+    -fx-padding: 0 192px 0 192px;
+}
+.px-52 {
+    -fx-padding: 0 208px 0 208px;
+}
+.px-56 {
+    -fx-padding: 0 224px 0 224px;
+}
+.px-60 {
+    -fx-padding: 0 240px 0 240px;
+}
+.px-64 {
+    -fx-padding: 0 256px 0 256px;
+}
+.px-72 {
+    -fx-padding: 0 288px 0 288px;
+}
+.px-80 {
+    -fx-padding: 0 320px 0 320px;
+}
+.px-96 {
+    -fx-padding: 0 384px 0 384px;
+}
+
+.py-0 {
+    -fx-padding: 0 0 0 0;
+}
+.py-0_5 {
+    -fx-padding: 2px 0 2px 0;
+}
+.py-1 {
+    -fx-padding: 4px 0 4px 0;
+}
+.py-1_5 {
+    -fx-padding: 6px 0 6px 0;
+}
+.py-2 {
+    -fx-padding: 8px 0 8px 0;
+}
+.py-2_5 {
+    -fx-padding: 10px 0 10px 0;
+}
+.py-3 {
+    -fx-padding: 12px 0 12px 0;
+}
+.py-3_5 {
+    -fx-padding: 14px 0 14px 0;
+}
+.py-4 {
+    -fx-padding: 16px 0 16px 0;
+}
+.py-5 {
+    -fx-padding: 20px 0 20px 0;
+}
+.py-6 {
+    -fx-padding: 24px 0 24px 0;
+}
+.py-7 {
+    -fx-padding: 28px 0 28px 0;
+}
+.py-8 {
+    -fx-padding: 32px 0 32px 0;
+}
+.py-9 {
+    -fx-padding: 36px 0 36px 0;
+}
+.py-10 {
+    -fx-padding: 40px 0 40px 0;
+}
+.py-12 {
+    -fx-padding: 48px 0 48px 0;
+}
+.py-14 {
+    -fx-padding: 56px 0 56px 0;
+}
+.py-16 {
+    -fx-padding: 64px 0 64px 0;
+}
+.py-20 {
+    -fx-padding: 80px 0 80px 0;
+}
+.py-24 {
+    -fx-padding: 96px 0 96px 0;
+}
+.py-28 {
+    -fx-padding: 112px 0 112px 0;
+}
+.py-32 {
+    -fx-padding: 128px 0 128px 0;
+}
+.py-36 {
+    -fx-padding: 144px 0 144px 0;
+}
+.py-40 {
+    -fx-padding: 160px 0 160px 0;
+}
+.py-44 {
+    -fx-padding: 176px 0 176px 0;
+}
+.py-48 {
+    -fx-padding: 192px 0 192px 0;
+}
+.py-52 {
+    -fx-padding: 208px 0 208px 0;
+}
+.py-56 {
+    -fx-padding: 224px 0 224px 0;
+}
+.py-60 {
+    -fx-padding: 240px 0 240px 0;
+}
+.py-64 {
+    -fx-padding: 256px 0 256px 0;
+}
+.py-72 {
+    -fx-padding: 288px 0 288px 0;
+}
+.py-80 {
+    -fx-padding: 320px 0 320px 0;
+}
+.py-96 {
+    -fx-padding: 384px 0 384px 0;
 }
 
 /*---------------------------------------------*/
@@ -623,8 +815,6 @@
     -fx-min-width: 384px;
 }
 
-/*---------------------------------------------*/
-
 .max-w-0 {
     -fx-max-width: 0px;
 }
@@ -727,8 +917,6 @@
 .max-w-96 {
     -fx-max-width: 384px;
 }
-
-/*---------------------------------------------*/
 
 .pref-w-0 {
     -fx-pref-width: 0px;
@@ -833,8 +1021,6 @@
     -fx-pref-width: 384px;
 }
 
-/*---------------------------------------------*/
-
 .min-h-0 {
     -fx-min-height: 0px;
 }
@@ -938,8 +1124,6 @@
     -fx-min-height: 384px;
 }
 
-/*---------------------------------------------*/
-
 .max-h-0 {
     -fx-max-height: 0px;
 }
@@ -1042,8 +1226,6 @@
 .max-h-96 {
     -fx-max-height: 384px;
 }
-
-/*---------------------------------------------*/
 
 .pref-h-0 {
     -fx-pref-height: 0px;
@@ -1192,16 +1374,12 @@
     -fx-font-size: 128px;
 }
 
-/*---------------------------------------------*/
-
 .font-normal {
     -fx-font-weight: 400;
 }
 .font-bold {
     -fx-font-weight: 700;
 }
-
-/*---------------------------------------------*/
 
 .fill-transparent {
     -fx-fill: transparent;
@@ -1896,8 +2074,6 @@
 .fill-stone-900 {
     -fx-fill: #1c1917;
 }
-
-/*---------------------------------------------*/
 
 .text-fill-transparent {
     -fx-text-fill: transparent;
@@ -3324,8 +3500,6 @@
     -fx-border-radius: 9999px;
 }
 
-/*---------------------------------------------*/
-
 .bg-rounded-xs {
     -fx-background-radius: 2px;
 }
@@ -3354,8 +3528,6 @@
     -fx-background-radius: 9999px;
 }
 
-/*---------------------------------------------*/
-
 .border {
     -fx-border-width: 1px;
 }
@@ -3368,8 +3540,6 @@
 .border-8 {
     -fx-border-width: 8px;
 }
-
-/*---------------------------------------------*/
 
 .border-transparent {
     -fx-border-color: transparent;
@@ -4090,8 +4260,6 @@
 .shadow-2xl {
     -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 10, 0, 0, 5);
 }
-
-/*---------------------------------------------*/
 
 .opacity-0 {
     -fx-opacity: 0;
